@@ -1,0 +1,1 @@
+temperatures = [10.1,"hot",9]
