@@ -4,5 +4,6 @@ This repository contains code I wrote whilst doing The Python Mega Course: Build
 Section 13 and onwards are filled with some interesting bits of code, which you can peruse at your leisure.
 
 ### Section 3 - The Basics: Data Types
+### Section 4 - The Basics: Operations with Data types
 
 Plz no flame... noob python programmer 
