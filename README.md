@@ -10,4 +10,5 @@ Section 13 and onwards are filled with some interesting bits of code, which you 
 ### Section 5 - The Basics: Functions and Conditionals
 ### Section 6 - The Basics: Processing User Input
 ### Section 7 - The Basics: Loops 
+### Section 8 - The Basics: A review of what was learned so far
 Plz no flame 
