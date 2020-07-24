@@ -6,4 +6,5 @@ Section 13 and onwards are filled with some interesting bits of code, which you 
 ### Section 3 - The Basics: Data Types
 ### Section 4 - The Basics: Operations with Data types
 ### Section 5 - The Basics: Functions and Conditionals
+### Section 6 - The Basics: Processing User Input
 Plz no flame... noob python programmer 
