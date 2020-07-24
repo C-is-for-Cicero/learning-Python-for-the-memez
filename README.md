@@ -9,4 +9,5 @@ Section 13 and onwards are filled with some interesting bits of code, which you 
 ### Section 4 - The Basics: Operations with Data types
 ### Section 5 - The Basics: Functions and Conditionals
 ### Section 6 - The Basics: Processing User Input
+### Section 7 - The Basics: Loops 
 Plz no flame 
