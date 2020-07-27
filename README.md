@@ -1,6 +1,6 @@
 # learning-Python-for-the-memez
 
-I took this course in preparation for my IBM certification in Data Science.
+A bunch of random code written in python and jupyter notebook 
 
 ## Content of the repository
 
