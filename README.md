@@ -4,7 +4,7 @@ A bunch of random code written in python and jupyter notebook
 
 ## Content of the repository
 
-This repository contains code I wrote whilst doing The Python Mega Course: Build 10 Real World Applications on Udemy. Sections 3 - 12 cover the basics but I wanted to include them in this repository to be thorough.
+This repository contains code I wrote whilst doing The Python Mega Course: Build 10 Real World Applications on Udemy, aswell as some other code that has to do with python. Sections 3 - 12 cover the basics but I wanted to include them in this repository to be thorough.
 
 ### Section 3 - The Basics: Data Types
 ### Section 4 - The Basics: Operations with Data types
