@@ -21,5 +21,5 @@ The other folders are filled with some interesting bits of code, which you can p
 
 ### Sales Analysis: Some sales analysis of data using pandas and matlibplot
 ### Pokemon Jupyter: Playing around with pokemon datasets using pandas
-
+### Web Map: Plotting volcanoes and world population data using folium
 Plz no flame 
