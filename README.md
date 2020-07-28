@@ -17,6 +17,9 @@ This repository contains code I wrote whilst doing The Python Mega Course: Build
 ### Section 11 - The Basics: File Processing
 ### Section 12 - The Basics: Imported Modules
 
-Section 13 and onwards are filled with some interesting bits of code, which you can peruse at your leisure.
+The other folders are filled with some interesting bits of code, which you can peruse at your leisure.
+
+### Sales Analysis: Some sales analysis of data using pandas and matlibplot
+### Pokemon Jupyter: Playing around with pokemon datasets using pandas
 
 Plz no flame 
