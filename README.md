@@ -22,4 +22,6 @@ The other folders are filled with some interesting bits of code, which you can p
 ### Sales Analysis: Some sales analysis of data using pandas and matlibplot
 ### Pokemon Jupyter: Playing around with pokemon datasets using pandas
 ### Web Map: Plotting volcanoes and world population data using folium
+### Section 13 - English dictionary: a program that returns the definition for a given word. Uses similarity indices for incorrect spelling
+### matplotlib graphs: some graphs, nothing special
 Plz no flame 
