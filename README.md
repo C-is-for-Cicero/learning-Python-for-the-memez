@@ -24,4 +24,5 @@ The other folders are filled with some interesting bits of code, which you can p
 ### Web Map: Plotting volcanoes and world population data using folium
 ### Section 13 - English dictionary: a program that returns the definition for a given word. Uses similarity indices for incorrect spelling
 ### matplotlib graphs: some graphs, nothing special
+### Web App: a very very basic website
 Plz no flame 
