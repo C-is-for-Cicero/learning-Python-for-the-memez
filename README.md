@@ -25,4 +25,5 @@ The other folders are filled with some interesting bits of code, which you can p
 ### Section 13 - English dictionary: a program that returns the definition for a given word. Uses similarity indices for incorrect spelling
 ### matplotlib graphs: some graphs, nothing special
 ### Web App: a very very basic website
+### playing around wit GUI creation using tkinter: a units converter
 Plz no flame 
