@@ -27,4 +27,6 @@ The other folders are filled with some interesting bits of code, which you can p
 ### Web App: a very very basic website
 ### playing around wit GUI creation using tkinter: a units converter
 ### Bookstore app: an application that records books by title, year, author and ISBN using SQLite3 for python
+### Bookeh: some bookeh plots
+
 Plz no flame 
